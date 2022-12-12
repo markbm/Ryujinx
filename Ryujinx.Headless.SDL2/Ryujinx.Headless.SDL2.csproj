@@ -12,7 +12,7 @@
 
   <ItemGroup>
     <PackageReference Include="OpenTK.Core" Version="4.7.5" />
-    <PackageReference Include="Ryujinx.Graphics.Nvdec.Dependencies" Version="5.0.1-build12" />
+    <PackageReference Include="Ryujinx.Graphics.Nvdec.Dependencies" Version="5.0.1-build13" />
   </ItemGroup>
 
   <ItemGroup>
